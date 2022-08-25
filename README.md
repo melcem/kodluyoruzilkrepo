@@ -28,3 +28,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 ***
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+[www.patika.com](https://app.patika.dev/courses/git/odev1)
